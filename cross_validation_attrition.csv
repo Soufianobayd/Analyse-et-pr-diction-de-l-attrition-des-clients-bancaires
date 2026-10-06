@@ -1,0 +1,6 @@
+﻿Modèle,AUC moyenne,Écart-type AUC
+Régression logistique,0.7647,0.008
+Arbre de décision,0.6908,0.0184
+Random Forest,0.8489,0.0119
+KNN,0.7798,0.007
+SVM,0.8236,0.0116
