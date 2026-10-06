@@ -1,0 +1,12 @@
+﻿Variable,Importance
+numerique__Age,0.2404063941733472
+numerique__Estimated_Salary,0.14943724346862244
+numerique__CreditScore,0.14452001570224937
+numerique__Balance,0.1417747409218135
+numerique__Num_Of_Products,0.12393157344980214
+numerique__Tenure,0.0822180628130475
+categorielle__Is_Active_Member_1,0.04084884136595073
+categorielle__Geography_Germany,0.02576492057896162
+categorielle__Gender_Male,0.018794541043239944
+categorielle__Has_Credit_Card_1,0.01864336297683368
+categorielle__Geography_Spain,0.013660303506131764
